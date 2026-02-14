@@ -1,0 +1,5 @@
+{
+  "name": "PayLock",
+  "description": "A Pay-to-Unlock platform where creators upload content, generate secure links, and monetize views. Features AI-powered descriptions and simulated payment processing.",
+  "requestFramePermissions": []
+}
